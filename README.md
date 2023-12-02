@@ -1,6 +1,12 @@
 # vgFolderSorter
 
-A simple utility to sort folders into audio, video, images, documents, and misc.
+A simple utility to sort directories by audio, video, image, and document.
+
+## Description
+
+A python script that will sort a directory into 5 different folders:
+audio, videos, images, documents, and misc. Folders will be generated on
+script run if not already present.
 
 ## Getting Started
 
